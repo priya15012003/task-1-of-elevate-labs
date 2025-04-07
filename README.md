@@ -1,5 +1,5 @@
 # task-1-of-elevate-labs
-NTERNSHIP BY ELEVATE LABS I HAVE CHOOSEN THE DATASET OF CUSTOMER PERSONALITY ANALYSIS. I CHOOSE THIS DATASET BECAUSE IT HAS Null values and mixed data types Real-world customer data from a marketing campaign Categorical columns like Gender, Education, Marital Status Numerical values like Income, Spending.
+INTERNSHIP BY ELEVATE LABS I HAVE CHOOSEN THE DATASET OF CUSTOMER PERSONALITY ANALYSIS. I CHOOSE THIS DATASET BECAUSE IT HAS Null values and mixed data types Real-world customer data from a marketing campaign Categorical columns like Gender, Education, Marital Status Numerical values like Income, Spending.
 It is Ideal for Practicing missing value handling, text standardization, and data type correction. 
 I’ve enhanced your Excel dataset with the following upgrades: Added Columns: Customer_Age 
 Total_Children 
